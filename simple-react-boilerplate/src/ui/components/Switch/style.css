@@ -1,0 +1,18 @@
+.wrapper {
+  display: inline-block;
+  margin-left: 100px;
+  width: 180px;
+  height: 100px;
+}
+
+.off {
+  background: #ffffff url("/public/off.png") no-repeat center center;
+}
+
+.paused {
+  background: #ffffff url("/public/pause.png") no-repeat center center;
+}
+
+.on {
+  background: #ffffff url("/public/onn.png") no-repeat center center;
+}

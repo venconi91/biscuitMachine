@@ -1,0 +1,17 @@
+.biscuit {
+  display: inline-block;
+  width: 50px;
+  height: 10px;
+}
+
+.extruded {
+  background: #ffffff url("/public/extruded-biscuit.png") no-repeat center center;
+}
+
+.stamped {
+  background: #ffffff url("/public/stamped-biscuit.png") no-repeat center center;
+}
+
+.baked {
+  background: #ffffff url("/public/baked-biscuit.png") no-repeat center center;
+}

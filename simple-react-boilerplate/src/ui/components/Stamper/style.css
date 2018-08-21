@@ -1,0 +1,7 @@
+.wrapper {
+  display: inline-block;
+  margin-left: 30px;
+  width: 70px;
+  height: 100px;
+  background: #ffffff url("/public/stamper.png") no-repeat center center;
+}

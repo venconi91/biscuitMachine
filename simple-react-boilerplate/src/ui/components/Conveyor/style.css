@@ -1,0 +1,21 @@
+.wrapper {
+
+}
+
+.conveyor {
+  width: 600px;
+  height: 10px;
+  background-color: grey;
+}
+
+.biscuits {
+  display: flex;
+}
+
+.biscuitWrapper {
+  /* border: 1px solid black; */
+  width: 100px;
+  height: 10px;
+  display: flex;
+  justify-content: center;
+}

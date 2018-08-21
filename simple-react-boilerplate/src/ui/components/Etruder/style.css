@@ -1,0 +1,7 @@
+.wrapper {
+  display: inline-block;
+  margin-left: 15px;
+  width: 70px;
+  height: 100px;
+  background: #ffffff url("/public/extruder.png") no-repeat center center;
+}

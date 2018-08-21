@@ -1,0 +1,7 @@
+{
+    "brand": "firstBrand",
+    "backendUrl": "http://localhost:3000/api",
+    "documentUploadUrl": "http://localhost:3000/fileUpload",
+    "pageTitle": "First Brand",
+    "icoUrl": ""
+}

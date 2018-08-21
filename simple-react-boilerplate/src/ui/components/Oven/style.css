@@ -1,0 +1,13 @@
+.wrapper {
+  display: inline-block;
+  margin-left: 120px;
+  width: 210px;
+  height: 70px;
+  background: #ffffff url("/public/hot-oven.png") no-repeat center center;
+}
+
+.tempWrapper {
+  display: inline-block;
+  height: 30px;
+  vertical-align: top;
+}
