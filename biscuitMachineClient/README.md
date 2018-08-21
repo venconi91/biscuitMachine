@@ -1,5 +1,4 @@
-Install:
-    clone the repo
-    install redux-devtools browser extension
-    npm install
-    npm start
+Client should be started after the server
+
+1. npm install
+2. npm start
